@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Cloud Computing and Backend Development**
 
-- 📫 How to reach me **imoscosoa@unsa.edu.pe**
+- 📫 How to reach me **imoscosoa@unsa.edu.pe** or **imoscosoapaza01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
